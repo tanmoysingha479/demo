@@ -1,1 +1,1 @@
-# demo
+this is demo of git tutorial session
